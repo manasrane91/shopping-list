@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Apples
+- Oranges
+- Peaches
